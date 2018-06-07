@@ -1,8 +1,8 @@
 Source: howdy
 Section: misc
 Priority: optional
-Standards-Version: 3.9.7
-Build-Depends: python, dh-python, devscripts, dh-make, debhelper
+Standards-Version: 4.1.4
+Build-Depends: python, dh-python, devscripts, debhelper (>= 11)
 Maintainer: boltgolt <boltgolt@gmail.com>
 Vcs-Git: https://github.com/Boltgolt/howdy
 
